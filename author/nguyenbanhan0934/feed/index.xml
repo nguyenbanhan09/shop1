@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nguyenbanhan0934 &#8211; shop của nhân</title>
+	<atom:link href="http://localhost/myproject/wordpress/author/nguyenbanhan0934/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyenbanhan09.github.io/shop1</link>
+	<description>Mua thì mua không mua thì mua</description>
+	<lastBuildDate>Thu, 16 Sep 2021 00:16:41 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Công nghệ Blockchain là gì ? [Tất tần tật kiến thức cần biết].</title>
+		<link>https://nguyenbanhan09.github.io/shop1/2021/09/16/cong-nghe-blockchain-la-gi-tat-tan-tat-kien-thuc-can-biet/</link>
+					<comments>https://nguyenbanhan09.github.io/shop1/2021/09/16/cong-nghe-blockchain-la-gi-tat-tan-tat-kien-thuc-can-biet/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyenbanhan0934]]></dc:creator>
+		<pubDate>Thu, 16 Sep 2021 00:16:41 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://nguyenbanhan09.github.io/shop1/?p=30</guid>
+
+					<description><![CDATA[Khởi nguồn của Blockchain Năm 1991, Blockchain đã được mô tả vào bởi &#160;W. Scott Stornetta và Stuart Haber. Mục đích là đánh dấu thời gian vào các tài liệu để nó trở nên bất biến. Điều này có nghĩa là bạn không thể sửa đổi ngày với bất cứ hình thức nào. Năm 2008,<div class="more-link">
+				 <a href="https://nguyenbanhan09.github.io/shop1/2021/09/16/cong-nghe-blockchain-la-gi-tat-tan-tat-kien-thuc-can-biet/" class="btn theme-btn"><span>Continue Reading </span><i class="icofont-thin-double-right"></i></a>
+			</div>]]></description>
+		
+					<wfw:commentRss>https://nguyenbanhan09.github.io/shop1/2021/09/16/cong-nghe-blockchain-la-gi-tat-tan-tat-kien-thuc-can-biet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hợp đồng thông minh là gì?</title>
+		<link>https://nguyenbanhan09.github.io/shop1/2021/09/16/hop-dong-thong-minh-la-gi/</link>
+					<comments>https://nguyenbanhan09.github.io/shop1/2021/09/16/hop-dong-thong-minh-la-gi/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyenbanhan0934]]></dc:creator>
+		<pubDate>Thu, 16 Sep 2021 00:01:35 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://nguyenbanhan09.github.io/shop1/?p=16</guid>
+
+					<description><![CDATA[Hợp đồng thông minh được Nick Szabo mô tả lần đầu tiên vào những năm 1990. Vào thời điểm đó, ông&#160;định nghĩa&#160;hợp đồng thông minh là một công cụ để chính thức hóa và bảo mật mạng máy tính bằng cách kết hợp các giao thức với giao diện người dùng. Szabo đã thảo luận<div class="more-link">
+				 <a href="https://nguyenbanhan09.github.io/shop1/2021/09/16/hop-dong-thong-minh-la-gi/" class="btn theme-btn"><span>Continue Reading </span><i class="icofont-thin-double-right"></i></a>
+			</div>]]></description>
+		
+					<wfw:commentRss>https://nguyenbanhan09.github.io/shop1/2021/09/16/hop-dong-thong-minh-la-gi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
